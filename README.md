@@ -9,7 +9,7 @@ A bootstrap site for a fake bootcamp.
 * [Bootstrap 5.2 ](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - frontend framework
 
 ### Link to Live Site
-[Link to live site](https://galleryshare.herokuapp.com/)
+[Link to live site]((https://clinton-dev.github.io/bootcamp-site/))
 
 ## Author
 
