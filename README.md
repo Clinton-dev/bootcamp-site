@@ -13,4 +13,4 @@ A bootstrap site for a fake bootcamp.
 
 ## Author
 
-* **Clinton Wambugu** - *Initial work* - [Clinton-dev](https://github.com/Clinton-dev)
+* **Clinton** - [Clinton-dev](https://github.com/Clinton-dev)
